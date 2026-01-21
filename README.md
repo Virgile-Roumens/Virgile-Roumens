@@ -46,7 +46,7 @@ Financial Engineering Master's student (ESILV, Paris) passionate about **commodi
 
 ## 📊 Featured Projects
 
-### 🏆 [Commodity Trading System]([https://github.com/YOUR_USERNAME/commodity-trading-system](https://github.com/Virgile-Roumens/commodities_trading_platform.git))
+### 🏆 [Commodity Trading System](https://github.com/Virgile-Roumens/commodities_trading_platform.git)
 **ML-Powered Trading Desk with Black-Litterman Portfolio Optimization**
 
 Professional commodity trading platform featuring:
@@ -60,7 +60,7 @@ Professional commodity trading platform featuring:
 
 ---
 
-### ⚓ [Freight Analytics Platform]([https://github.com/YOUR_USERNAME/freight-analytics](https://github.com/Virgile-Roumens/freight_dispersion_trading.git))
+### ⚓ [Freight Analytics Platform](https://github.com/Virgile-Roumens/freight_dispersion_trading.git)
 **Capesize Dispersion Intelligence & 5TC Price Prediction**
 
 Quantitative trading tool for freight derivatives markets:
@@ -74,7 +74,7 @@ Quantitative trading tool for freight derivatives markets:
 
 ---
 
-### 🚢 [Tankers Tracker]([https://github.com/YOUR_USERNAME/tankers-tracker](https://github.com/Virgile-Roumens/tankers-tracker.git))
+### 🚢 [Tankers Tracker](https://github.com/Virgile-Roumens/tankers-tracker.git)
 **Real-Time Vessel Tracking with AIS Data**
 
 Live tanker monitoring application for maritime logistics:
