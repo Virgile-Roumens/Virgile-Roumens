@@ -114,21 +114,6 @@ Live tanker monitoring application for maritime logistics:
 - Led team of 6 developing systematic BTC trading strategy with Random Forest forecasting
 - Applied **Granger causality tests** to validate influential market factors (Python, Bloomberg)
 
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
-
-</div>
-
 ---
 
 ## 🎯 Areas of Expertise
@@ -159,7 +144,6 @@ When I'm not building trading systems or analyzing markets, you'll find me:
 I'm actively seeking **graduate opportunities** in:
 - 🌾 **Physical Commodity Trading** (Ag, Energy, Metals)
 - 📊 **Quantitative Analysis** and systematic trading
-- ⚠️ **Market Risk Management** and portfolio optimization
 - 🏦 **Commodity Derivatives** trading and structuring
 
 **Open to:** Full-time positions, VIE programs, Graduate schemes starting 2026
@@ -170,7 +154,5 @@ I'm actively seeking **graduate opportunities** in:
 [![Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:virgile.roumens@gmail.com)
 
 ---
-
-⭐ **Feel free to explore my repositories and don't hesitate to reach out for collaborations!**
 
 </div>
