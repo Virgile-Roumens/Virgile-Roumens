@@ -89,17 +89,31 @@ Live tanker monitoring application for maritime logistics:
 
 ## 💼 Professional Experience
 
+**🏦 Robeco** | *Multi Asset Solutions, Summer Intern* | Jun 2025 - Aug 2025  
+*Rotterdam, Netherlands*
+- Developed **Python dashboard** to price index options and generate multi-leg strategies using live volatility skew and Greeks
+- Structured **Carry & Roll-down trade** on AUD yield curve (IRS + bond futures) backed by RBA policy and commodity-linked inflation analysis
+- Optimized **$750M position entry** with Head of Fixed Income Trading via algorithmic execution (TWAP), minimizing market impact
+- Analyzed **Chinese A-Shares futures arbitrage**, evaluating A/H premiums through macro/technical analysis
+- Collaborated with portfolio managers in **€4.5Bn AUM** quantitative framework, refining alpha generation via tracking error and market depth
+
 **🏦 Société Générale CIB** | *IT Quant Intern* | Sep 2024 - Mar 2025  
+*Paris, France*
 - Optimized financial models (Python) for cross-asset trading desks (Commodities, Equities, FICC)
-- Built automated P&L attribution reports enhancing trader/risk manager transparency
+- Built automated **P&L attribution reports** (RP/PVA/IPV) enhancing transparency for traders and risk managers
+- Led migration of sensitivity requests, coordinating with offshore IT teams for real-time delivery scalability
 
 **🏦 BNP Paribas** | *ALM Treasury Intern* | Apr 2024 - Sep 2024  
-- Managed liquidity, interest rate, and FX risk models using Python and VBA
-- Conducted Basel III stress tests for balance sheet risk assessment
+*Paris, France*
+- Managed liquidity, interest rate, and FX risk models executing IRS hedges (Python, VBA)
+- Conducted **Basel III stress tests** for balance sheet flow forecasting
+- Built statistical tool explaining subsidiaries' pricing behavior vs. rate dynamics
 
 **📊 Ginjer AM** | *Causal Investment Strategy Research* | Sep 2023 - Mar 2024  
-- Led team developing systematic BTC trading strategy with Random Forest forecasting
-- Applied Granger causality tests to validate influential market factors
+*Paris, France*
+- Led team of 6 developing systematic BTC trading strategy with Random Forest forecasting
+- Applied **Granger causality tests** to validate influential market factors (Python, Bloomberg)
+
 
 ---
 
