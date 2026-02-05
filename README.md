@@ -16,7 +16,7 @@
 
 Financial Engineering Master's student (ESILV, Paris) passionate about **commodity markets**, **quantitative trading**, and building production-ready financial systems. I bridge the gap between financial theory and real-world trading through hands-on Python development and market analysis.
 
-💼 **Currently:** Seeking opportunities in **Commodity Trading**, **Quantitative Analysis**, and **Risk Management**  
+💼 **Currently:** Seeking opportunities in **Commodity Trading Industry**
 🎓 **Graduating:** February 2026  
 🌍 **Recent Adventure:** Solo cycled **4,400 km from France to Greece** with just a bike and tent  
 ⚡ **Fun Fact:** Competed in CME Group & Bloomberg Trading Challenges
