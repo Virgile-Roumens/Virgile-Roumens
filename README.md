@@ -18,7 +18,7 @@ Financial Engineer (ESILV, Paris) working at the intersection of **physical comm
 
 🚢 **Currently:** Graduate Trainee · Freight Trading Platform · Global Agricultural Commodity Merchant  
 🌍 **Based in:** Geneva, Switzerland  
-🎓 **Background:** ESILV — MSc Financial Engineering (Paris)  
+🎓 **Background:** ESILV — MEng Financial Engineering (Paris)  
 🚲 **Recent Adventure:** Solo cycled **4,400 km from France to Greece** with just a bike and tent  
 ⚡ **Fun Fact:** Competed in CME Group & Bloomberg Trading Challenges
 
